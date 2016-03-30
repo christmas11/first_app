@@ -123,3 +123,13 @@ header .hide-completed {
     padding-bottom: 5px;
   }
 }
+.w3-example, .w3-code, .w3-reference {
+    margin: 20px 0;
+}
+.w3-card-2, .w3-example {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12) !important;
+}
+.w3-example {
+    background-color: #f1f1f1;
+    padding: 0.01em 16px;
+}
